@@ -88,6 +88,7 @@ if (LIFE_SETTINGS(getNumber,"save_civilian_position_restart") isEqualTo 1) then 
 /* Map-based server side initialization. */
 master_group attachTo[bank_obj,[0,0,0]];
 
+/* --- Disables Altis Hospital Building Creation
 {
     _hs = createVehicle ["Land_Hospital_main_F", [0,0,0], [], 0, "NONE"];
     _hs setDir (markerDir _x);
@@ -114,7 +115,7 @@ master_group attachTo[bank_obj,[0,0,0]];
         };
     };
 } forEach ["hospital_2","hospital_3"];
-
+*/
 {
     if (!isPlayer _x) then {
         _npc = _x;
