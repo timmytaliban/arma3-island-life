@@ -40,10 +40,13 @@ The New Life Rule is the concept where if you die because of a roleplay situatio
 
 ### Zones
 There are multiple different coloured zones that may be found across the map.
-- Green Zones are safe zones. No roleplay, killing, robbing, etc. are permitted in these zones. Fleeing into a safezone to avoid roleplay is prohibited.
-- Blue Zones are Police Zones. These are areas restricted to civilians. These zones could be fixed (Jail/Police Stations) or dynamic (crime scenes/martial law/etc). Civilians found inside these zones could possibly be searched and detained without reason, depending on the severity of the situation.
-- Orange Zones are criminal zones. These are areas of high criminal activity. Police don't need probable cause for searching and detaining someone they believe has been in the zone. The threshold for civilian vs civilian violent roleplay is also reduced.
-- Red Zones are kill-on-sight zones. These are usually restricted to events only, but civilians are not permitted inside the zone.
+- Green Zones are safe zones. No roleplay, killing, robbing, etc. are permitted in these zones. 
+  - Fleeing into a safezone to avoid roleplay is prohibited.
+- Blue Zones are Police Zones. These are areas restricted to civilians. These zones could be fixed (Jail/Police Stations) or dynamic (crime scenes/martial law/etc).
+  - Civilians found inside these zones could possibly be searched and detained without reason, depending on the severity of the situation.
+- Orange Zones are criminal zones. These are areas of high criminal activity.
+  - Police don't need probable cause for searching and detaining someone they believe has been in the zone. The threshold for civilian vs civilian violent roleplay is also reduced.
+- Red Zones are kill-on-sight zones. These are usually restricted to events only. Players may enter at their own risk.
 
 ### Police
 - All Police players must be members of the Discord. Being present in a Discord voice channel is encouraged.
@@ -89,13 +92,14 @@ Martial Law may be declared by the Police during times of extreme instability du
 ### The Continental Hotel
 The Continental Hotel is our equivalent to "Rebel HQ" or "IRA Base" from other Life servers, inspired by the John Wick movie series. It functions as a neutral zone and criminal underworld hub for all criminal civilians.
 
-- Civilians must follow all green zone / safezone rules. No robbing, killing, etc. between civilians is allowed. Civilians can not flee to the Continental Hotel to avoid the Police either.
+- Civilians must follow all green zone / safezone rules. No robbing, killing, etc. between civilians is allowed. 
+- Civilians can not flee into to the Continental Hotel to avoid the Police.
 
-- The Continental Hotel is not a safezone for, or from the Police. The Police may raid The Continental Hotel at their own risk. Civilians may kill any Police players found within the grounds.
+- The Continental Hotel is not a safezone for, or from, the Police. The Police may raid The Continental Hotel at their own risk. Civilians may kill any Police players found within the grounds.
 
-- There is no legitimate/legal business that can be conducted at The Continental Hotel. Therefore, Police have reasonable suspicion to stop civilians seen leaving the grounds.
+- There is no legitimate/legal business that can be conducted at The Continental Hotel. Therefore, Police have reasonable suspicion to stop civilians seen visiting the grounds.
 
-- Civilians may not engage the police or from within The Continental Hotel if they are outside the grounds.
+- Civilians may not engage anyone outside The Continental grounds from within.
 
 ### Gangs
 - Gang sizes are limited to 6 players. Creating sister gangs to circumvent this limit is not permitted.
