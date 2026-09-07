@@ -42,10 +42,12 @@ The New Life Rule is the concept where if you die because of a roleplay situatio
 There are multiple different coloured zones that may be found across the map.
 - Green Zones are safe zones. No roleplay, killing, robbing, etc. are permitted in these zones. 
   - Fleeing into a safezone to avoid roleplay is prohibited.
-- Blue Zones are Police Zones. These are areas restricted to civilians. These zones could be fixed (Jail/Police Stations) or dynamic (crime scenes/martial law/etc).
+- Blue Zones are Police Zones. These are areas restricted to civilians. 
+  - These zones could be fixed (Jail/Police Stations) or dynamic (crime scenes/martial law/etc).
   - Civilians found inside these zones could possibly be searched and detained without reason, depending on the severity of the situation.
-- Orange Zones are criminal zones. These are areas of high criminal activity.
-  - Police don't need probable cause for searching and detaining someone they believe has been in the zone. The threshold for civilian vs civilian violent roleplay is also reduced.
+- Orange Zones are criminal zones. 
+  - These are areas with high expectations of criminal activity.
+  - Police don't need probable cause for searching and detaining someone they believe has been in the zone. - The threshold for civilian vs civilian violent roleplay is also reduced.
 - Red Zones are kill-on-sight zones. These are usually restricted to events only. Players may enter at their own risk.
 
 ### Police
