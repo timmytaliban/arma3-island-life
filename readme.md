@@ -1,6 +1,6 @@
 # About
 
-This is an Arma 3 Life mod inspired by Arma 2 Island Life. This framework is a fork of AsYetUntitled's Altis Life 5.0 framework. This mission file includes mods which are not found on GitHub. Please see our [Discord] (https://discord.gg/mw6xGAA45p) for more information.
+This is an Arma 3 Life mod inspired by Arma 2 Island Life. This framework is a fork of AsYetUntitled's Altis Life 5.0 framework. This mission file includes mods which are not found on GitHub. Please see our [Discord](https://discord.gg/mw6xGAA45p) for more information.
 
 # Features
 
