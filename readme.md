@@ -20,11 +20,23 @@ This is an Arma 3 Life mod inspired by Arma 2 Island Life. This framework is a f
 ### Roleplay
 - Random Deathmatching is not tolerated.
 - Vehicle Deathmatching is not tolerated. Vehicle vs Vehicle Combat is allowed regarding vehicular pursuits. However, abusing the physics system bugs are still prohibited.
-- New Life Rule: When you die as a civilian, you may not return to your place of death, or the situation you were killed in, until 10 minutes have passed OR the situation has ended. 
 - Violent Roleplay: any form of random attacking, intimidating, robbing, etc. against another player. Violent Roleplay should be kept reasonable. Excessive or serial robbing/camping will not be tolerated.
 - Unarmed players should never be killed except under extreme circumstances, such as failing to comply with orders or trolling/impeding players.
 - Anyone who is within reasonable radius of a violent roleplay situation, or becomes witness to a violent roleplay situation can consider themselves initiated upon.
 - Impersonating the Police or EMS/FD is strictly forbidden. This specifically includes the use of words such as "Stop! Police!" or "Stop! You're under arrest!". It is not forbidden to use stolen police vehicles to perform fake traffic stops, so long as the victim has a reasonable amount of time to realize it's a trap.
+
+### New Life Rule (NLR)
+
+The New Life Rule is the concept where if you die because of a roleplay situation, then you begin a new life once you respawn.
+
+- NLR applies only to cases where you die as the result of a relevant roleplay scenario. Accidental or unrealted deaths do not nullify all roleplay scenarios, however incidental deaths do apply.
+
+- You may not return to your place of death for a minimum of 10 minutes, or until the roleplay scenario you died in is effectively over or has moved on to another location.
+
+- NLR does not absolve you of your past life in the following scenarios:
+    - Ongoing complex criminal dramas, such as gang wars.
+    - Newly discovered crimes, even if they were committed in a past life.
+  
 
 ### Zones
 There are multiple different coloured zones that may be found across the map.
@@ -55,9 +67,11 @@ Police may declare crime scenes or police raids using the in-game systems.
 ### Martial Law
 Martial Law may be declared by the Police during times of extreme instability due to lack of law and order, or during times of grave threat to the public.
 
-- Civilians must seek avoid the martial law zones, or seek shelter in their hoes or nearest safezone.
+- Civilians must avoid the martial law zone. If they are found within it, they must stay within their homes and go to the nearest safezone.
+- 
 - Any civilians found in the martial law zone may be searched and detained without reason.
-- Any armed civilians found in the zone may be fired upon if they are behaving in a threatening manner.
+- 
+- Any armed civilians found in the zone may be engaged by the Police if they believe they pose a threat.
 
 ### EMS/FD
 - All EMS players must be members of the Discord. Being present in a Discord voice channel is encouraged.
@@ -73,21 +87,34 @@ Martial Law may be declared by the Police during times of extreme instability du
 - Civilians in armed vehicles may be shot on sight by Police, or shot on sight by rival criminals in crime zones only.
 
 ### The Continental Hotel
-The Continental Hotel is our equivalent to "Rebel HQ" or "IRA Base" from other Life servers, inspired by the John Wick movie series. It functions as a neutral zone and shop for all criminal civilians.
+The Continental Hotel is our equivalent to "Rebel HQ" or "IRA Base" from other Life servers, inspired by the John Wick movie series. It functions as a neutral zone and criminal underworld hub for all criminal civilians.
 
 - Civilians must follow all green zone / safezone rules. No robbing, killing, etc. between civilians is allowed. Civilians can not flee to the Continental Hotel to avoid the Police either.
 
 - The Continental Hotel is not a safezone for, or from the Police. The Police may raid The Continental Hotel at their own risk. Civilians may kill any Police players found within the grounds.
 
-- Civilians may not engage the police or from within The Continental Hotel if they are outside the grounds.
-
 - There is no legitimate/legal business that can be conducted at The Continental Hotel. Therefore, Police have reasonable suspicion to stop civilians seen leaving the grounds.
 
-### Gang
+- Civilians may not engage the police or from within The Continental Hotel if they are outside the grounds.
+
+### Gangs
 - Gang sizes are limited to 6 players. Creating sister gangs to circumvent this limit is not permitted.
 - Gang Members are required to wear a uniform of sorts. This could be something such as wearing the same colour theme, clothing/accessories, etc, so long as the theme is obvious to other players.
 - In violent/criminal roleplay scenarios, an initiation on one gang member is considered an initation on the gang as a whole.
 
-### Special Rules
-- Working as a PMC, Hitman or Bounty Hunter is permitted. However, there are no legal protections for people participating in this roleplay. This means that if you break the law, you can be arrested/jailed accordingly. Players are also required to follow all standard roleplay rules.
-- Tow Truck Drivers using their vehicles to faciliate grand theft auto will be jailed
+### Roleplay Job Rules
+
+The Good Faith Rule: any players offering services, whether legal or illegal, are required to perform their duties in good faith. This also applies to buyers seeking out these services. The buyer may not fake interest for the intent of stealing, robbing, scamming the seller, or deliberately not paying for services rendered. Likewise, the seller may not exploit the buyer in a similar manner.
+
+- The Good Faith rule explicitly applies to players offering illegal or "barely legal" services. These includes services such as being getaway driver, illegal delivery driver, being a Hitman/Assassin, or being a paid Thug/Mercenary. All parties must act in good faith.
+
+- The Good Faith rule does not apply to the parties involved in the trading or selling of material illegal goods. This includes trading drugs, illegal weapons, stolen vehicles, illegal items, etc.
+
+- Both parties must agree to the terms and conditions of work and payment.
+
+- If illegal services are not being rendered due to police or rival criminal interference, neither parties are required to refund each other due to the risky nature of this business.
+
+- If illegal services are not rendered due to gross neglience or unsatisfactory on either parties behalf, then that gives sufficient violent roleplay reason to seek a refund.
+
+
+
