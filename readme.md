@@ -4,32 +4,33 @@ This is an Arma 3 Life mod inspired by Arma 2 Island Life. This framework is a f
 
 # Features
 
-- Police, Civilian, and Emergency Services Team
-- Streamlined mod pack that makes modded Life RP more accessible for all.
-- Expanded activities and in-game systems for all teams.
-- A focus on more casual gameplay. Best played in 2 week wipes or monthly wipes.
+- Police, EMS/Fire Dept, and Civilian teams.
+- Streamlined mod pack including a map, weapons, vehicles, and assets.
+- Refined activities and in-game systems.
+- Casual gameplay. This mission is best played in 2 week wipes, allowing for refreshing action.
 
 ## Server Rules
 
 ### General
-- Be respectful. Excessive flaming, harassment, or discrimination is not tolerated
-- No cheating. Bad sportsmanship will not be tolerated. This includes abusing bugs/glitches and exploiting in-game systems.
+- Be respectful to all. Excessive flaming, discrimination, and harassment will not be tolerated.
+- No cheating. Bad sportsmanship will not be tolerated. This includes abusing bugs/glitches and excessive trolling.
 - Using a microphone is strongly encouraged. We do not force text chat usage.
 - Player names must be legibile and pronounceable. They do not need to follow any format or naming convention, and must only use latin characters/numbers.
 
 ### Roleplay
 - Random Deathmatching is not tolerated.
-- Vehicle Deathmatching is not tolerated. Vehicle vs Vehicle Combat is permitted for the purpose of vehicle pursuits. Abusing Arma physics however is still not tolerated.
-- New Life Rule: When you die as a civilian, you may not return to your place of death or the situation/event you died in for a minimum of 10 minutes. 
+- Vehicle Deathmatching is not tolerated. Vehicle vs Vehicle Combat is allowed regarding vehicular pursuits. However, abusing the physics system bugs are still prohibited.
+- New Life Rule: When you die as a civilian, you may not return to your place of death, or the situation you were killed in, until 10 minutes have passed OR the situation has ended. 
 - Violent Roleplay: any form of random attacking, intimidating, robbing, etc. against another player. Violent Roleplay should be kept reasonable. Excessive or serial robbing/camping will not be tolerated.
-- Unarmed players should never be killed except under certain circumstances, such as failing to comply with orders or trolling/impeding players.
-- Anyone within reasonable earshot of a violent roleplay scenario, or who stumbles into a violent roleplay scenario, can consider themselves initiated upon.
-- Impersonating the Police or EMS/FD is not permitted. This specifically includes using words of command such as "Stop! Police!", etc. This does not include using police vehicles, so long as a victim has reasonable time to react to the trap.
+- Unarmed players should never be killed except under extreme circumstances, such as failing to comply with orders or trolling/impeding players.
+- Anyone who is within reasonable radius of a violent roleplay situation, or becomes witness to a violent roleplay situation can consider themselves initiated upon.
+- Impersonating the Police or EMS/FD is strictly forbidden. This specifically includes the use of words such as "Stop! Police!" or "Stop! You're under arrest!". It is not forbidden to use stolen police vehicles to perform fake traffic stops, so long as the victim has a reasonable amount of time to realize it's a trap.
 
 ### Zones
+There are multiple different coloured zones that may be found across the map.
 - Green Zones are safe zones. No roleplay, killing, robbing, etc. are permitted in these zones. Fleeing into a safezone to avoid roleplay is prohibited.
 - Blue Zones are Police Zones. These are areas restricted to civilians. These zones could be fixed (Jail/Police Stations) or dynamic (crime scenes/martial law/etc). Civilians found inside these zones could possibly be searched and detained without reason, depending on the severity of the situation.
-- Orange Zones are criminal zones. These are areas of high criminal activity. Police don't need probable cause for searching and detaining someone they believe has been in the zone. The threshold for civilian vs civilian violent roleplay is also reduced, excluding the Mafia Club and other vendors.
+- Orange Zones are criminal zones. These are areas of high criminal activity. Police don't need probable cause for searching and detaining someone they believe has been in the zone. The threshold for civilian vs civilian violent roleplay is also reduced.
 - Red Zones are kill-on-sight zones. These are usually restricted to events only, but civilians are not permitted inside the zone.
 
 ### Police
@@ -43,10 +44,12 @@ This is an Arma 3 Life mod inspired by Arma 2 Island Life. This framework is a f
 - Police must explain all charges and reasons for arrest before jailing someone.
 
 ### Crime Scenes and Police Raids
-- Crime Scenes may be declared by the Police. These will show up as blue coloured zones on the map. It serves as official notice to civilians to leave and avoid the area. It is not justification for killing on sight. 
-- Civilians found in the crime scene, or who routinely interfere with the investigation, may be fined/detained/jailed as appropriately.
-- A Police Raid a time-sensitive, targetted law enforcement operation, such as executing a search warrant or arresting a wanted fugitive.
-- Police require a specific target or goal, and justification for announcing a raid. Raiding for fun or erroneous reasons are not permitted.
+Police may declare crime scenes or police raids using the in-game systems.
+
+- The Police my declare an area a crime scene if there is an ongoing situation or investigation and need to order civilians to leave or avoid an area. These are managed by using the in-game system. 
+- Civilians found in the area of a crime scene may be questionned or detained as long as there is proper reason.
+- Civilians obstructing an ongoing crime scene or investigation may be fined or jailed as appropriate.
+- The Police may declare a raid in an area if there is a proper justification to perform such a time-sensitive or high-risk operation. Proper justification includes a specific objective or target. Raiding for fun or routine operations is not permitted.
 - Police may search and detain any players found within the scope of the raid.
 
 ### Martial Law
@@ -69,8 +72,16 @@ Martial Law may be declared by the Police during times of extreme instability du
 - Civilians may never impersonate the Police or EMS/FD.
 - Civilians in armed vehicles may be shot on sight by Police, or shot on sight by rival criminals in crime zones only.
 
-### The Mafia Club
-- The Mafia Club is our equivalent to "Rebel HQ/Outposts" or "IRA Base" from other Life servers. It is a criminal hub/base for all civilians. It is a safezone for civilians, but the Mafia Club may be raided by the Police like a Gang Area can be.
+### The Continental Hotel
+The Continental Hotel is our equivalent to "Rebel HQ" or "IRA Base" from other Life servers, inspired by the John Wick movie series. It functions as a neutral zone and shop for all criminal civilians.
+
+- Civilians must follow all green zone / safezone rules. No robbing, killing, etc. between civilians is allowed. Civilians can not flee to the Continental Hotel to avoid the Police either.
+
+- The Continental Hotel is not a safezone for, or from the Police. The Police may raid The Continental Hotel at their own risk. Civilians may kill any Police players found within the grounds.
+
+- Civilians may not engage the police or from within The Continental Hotel if they are outside the grounds.
+
+- There is no legitimate/legal business that can be conducted at The Continental Hotel. Therefore, Police have reasonable suspicion to stop civilians seen leaving the grounds.
 
 ### Gang
 - Gang sizes are limited to 6 players. Creating sister gangs to circumvent this limit is not permitted.
