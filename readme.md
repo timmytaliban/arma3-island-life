@@ -35,16 +35,15 @@ The New Life Rule is the concept where if you die because of a roleplay situatio
 
 - NLR does not absolve you of your past life in the following scenarios:
     - Ongoing complex criminal dramas, such as gang wars.
-    - Newly discovered crimes, even if they were committed in a past life.
-  
+    - Newly discovered crimes, even if they were committed in a past life.  
 
 ### Zones
 There are multiple different coloured zones that may be found across the map.
 - Green Zones are safe zones. No roleplay, killing, robbing, etc. are permitted in these zones. 
   - Fleeing into a safezone to avoid roleplay is prohibited.
 - Blue Zones are Police Zones. These are areas restricted to civilians. 
-  - These zones could be fixed (Jail/Police Stations) or dynamic (crime scenes/martial law/etc).
-  - Civilians found inside these zones could possibly be searched and detained without reason, depending on the severity of the situation.
+  - These zones could be fixed (jail/police stations) or dynamic (crime scenes/martial law/etc).
+  - Civilians found inside these zones may be searched and detained, depending on the context of the situation.
 - Orange Zones are criminal zones. 
   - These are areas with high expectations of criminal activity.
   - Police don't need probable cause for searching and detaining someone they believe has been in the zone. - The threshold for civilian vs civilian violent roleplay is also reduced.
@@ -72,10 +71,8 @@ Police may declare crime scenes or police raids using the in-game systems.
 ### Martial Law
 Martial Law may be declared by the Police during times of extreme instability due to lack of law and order, or during times of grave threat to the public.
 
-- Civilians must avoid the martial law zone. If they are found within it, they must stay within their homes and go to the nearest safezone.
-- 
+- This is declared by using the in-game system.
 - Any civilians found in the martial law zone may be searched and detained without reason.
-- 
 - Any armed civilians found in the zone may be engaged by the Police if they believe they pose a threat.
 
 ### EMS/FD
@@ -96,11 +93,8 @@ The Continental Hotel is our equivalent to "Rebel HQ" or "IRA Base" from other L
 
 - Civilians must follow all green zone / safezone rules. No robbing, killing, etc. between civilians is allowed. 
 - Civilians can not flee into to the Continental Hotel to avoid the Police.
-
 - The Continental Hotel is not a safezone for, or from, the Police. The Police may raid The Continental Hotel at their own risk. Civilians may kill any Police players found within the grounds.
-
 - There is no legitimate/legal business that can be conducted at The Continental Hotel. Therefore, Police have reasonable suspicion to stop civilians seen visiting the grounds.
-
 - Civilians may not engage anyone outside The Continental grounds from within.
 
 ### Gangs
