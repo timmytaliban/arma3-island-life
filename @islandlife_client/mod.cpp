@@ -1,0 +1,10 @@
+author = "Timmy Taliban";
+hideName = 0;
+hidePicture = 0;
+logo = "";
+logoOver = "";
+logoSmall = "";
+name = "Arma 3 Island Life Client Mod";
+overview = "";
+picture = ";
+tooltipOwned = "";
