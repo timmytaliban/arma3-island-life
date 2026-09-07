@@ -50,8 +50,11 @@ This is an Arma 3 Life mod inspired by Arma 2 Island Life. This framework is a f
 - Police may search and detain any players found within the scope of the raid.
 
 ### Martial Law
-- The Police may declare Martial Law in times of extreme instability or threat to public safety. Martial Law may be declared in specific areas or in a general area.
-- Any civilians found inside a the Martial Law Zone may be searched and detained without reason. Any armed civilians behaving in threatening or suspicious manner may be killed on sight.
+Martial Law may be declared by the Police during times of extreme instability due to lack of law and order, or during times of grave threat to the public.
+
+- Civilians must seek avoid the martial law zones, or seek shelter in their hoes or nearest safezone.
+- Any civilians found in the martial law zone may be searched and detained without reason.
+- Any armed civilians found in the zone may be fired upon if they are behaving in a threatening manner.
 
 ### EMS/FD
 - All EMS players must be members of the Discord. Being present in a Discord voice channel is encouraged.
