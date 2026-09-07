@@ -1,0 +1,1 @@
+addMissionEventHandler ["Map", {_this call life_fnc_mapInit}];

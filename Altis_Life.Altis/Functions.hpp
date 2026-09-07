@@ -371,4 +371,17 @@ class Life_Client_Core {
         class vehTakeItem {};
         class vInteractionMenu {};
     };
+
+    class timmytaliban {
+        file = "timmytaliban";
+        class setupHandlers {};
+    };
+
+    class Map_Markers {
+        file = "timmytaliban\map_markers";
+        class bluforMarkers {};
+        class indepMarkers {};
+        class civilianMarkers {};
+        class mapInit {};
+    };
 };
