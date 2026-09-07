@@ -7,12 +7,12 @@ https://discord.gg/mw6xGAA45p
 if (!hasInterface) exitWith {};
 // Main
 player createDiarySubject
-["genciv_project",
-"Generic Civilian",
+["islandlife_project",
+"Arma 3 Island Life",
 ""];
 
 player createDiaryRecord 
-["genciv_project", 
+["islandlife_project", 
 [
 "Usage and Multiplayer Servers",
 "
@@ -24,11 +24,11 @@ taskNull,
 false];
 
 player createDiaryRecord 
-["genciv_project", 
+["islandlife_project", 
 [
 "Credits",
 "
-<font color ='#f5c71a' size='14'>Credits</font><br></br><br></br>Bohemia Interactive (for the original content),<br></br>Timmy Taliban and all his supporters
+<font color ='#f5c71a' size='14'>Credits</font><br></br><br></br>AsYetUntitled's Altis Life 5.0 Framework,<br></br>Timmy Taliban and all his supporters
 "
 ], 
 taskNull, 
@@ -36,11 +36,11 @@ taskNull,
 false];
 
 player createDiaryRecord 
-["genciv_project", 
+["islandlife_project", 
 [
 "Description",
 "
-<font color ='#f5c71a' size='15'>You are running Addons from Generic Civilian Gear by Timmy Taliban</font><br></br><br></br>Discord: https://discord.gg/Pa5xSUQccD
+<font color ='#f5c71a' size='15'>You are running Addons from the Arma 3 Island Life Project by Timmy Taliban</font><br></br><br></br>Discord: https://discord.gg/mw6xGAA45p
 "
 ], 
 taskNull, 

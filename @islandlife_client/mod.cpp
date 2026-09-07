@@ -6,5 +6,5 @@ logoOver = "";
 logoSmall = "";
 name = "Arma 3 Island Life Client Mod";
 overview = "";
-picture = ";
+picture = "";
 tooltipOwned = "";
