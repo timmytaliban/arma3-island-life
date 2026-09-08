@@ -173,6 +173,7 @@ class Life_Client_Core {
         class AAN {};
         class accType {};
         class actionKeyHandler {};
+        class addVirtualItems {};
         class animSync {};
         class calWeightDiff {};
         class checkMap {};

@@ -70,6 +70,6 @@ if (life_removeWanted) then {
     };
 
 };
-
+["cellphone",1] call life_fnc_addVirtualItems;
 [] call SOCK_fnc_updateRequest;
 [] call life_fnc_hudUpdate; //Request update of hud.

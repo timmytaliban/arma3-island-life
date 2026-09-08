@@ -143,9 +143,7 @@ class VirtualShops {
 *        processedItem = Processed Item
 */
 class VirtualItems {
-    //Virtual Items
-
-    //Misc
+//Virtual Items
     class pickaxe {
         variable = "pickaxe";
         displayName = "STR_Item_Pickaxe";
@@ -302,7 +300,19 @@ class VirtualItems {
         icon = "icons\ico_storageBig.paa";
     };
 
-    //Mined Items
+    class cellphone {
+    variable = "cellphone";
+    displayName = "STR_Item_Cellphone";
+    weight = 0;
+    buyPrice = 1000;
+    sellPrice = 500;
+    illegal = false;
+    edible = -1;
+    drinkable = -1;
+    icon = "\a3\weapons_f\items\data\UI\gear_toolkit_ca.paa";
+    };
+
+//Mined Items
     class oil_unprocessed {
         variable = "oilUnprocessed";
         displayName = "STR_Item_OilU";

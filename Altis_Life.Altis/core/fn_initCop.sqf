@@ -22,6 +22,12 @@ if (!(str(player) in ["cop_1","cop_2","cop_3","cop_4"])) then {
 
 
 player setVariable ["rank",(FETCH_CONST(life_coplevel)),true];
+if (ITEM_VALUE("cellphone") < 1) then {
+    ["cellphone",1] call life_fnc_addVirtualItems;
+};
+if !("ItemRadio" in assignedItems player) then {
+    player linkItem "ItemRadio";
+};
 [] call life_fnc_spawnMenu;
 waitUntil{!isNull (findDisplay 38500)}; //Wait for the spawn selection to be open.
 waitUntil{isNull (findDisplay 38500)}; //Wait for the spawn selection to be done.

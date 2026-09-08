@@ -11,7 +11,7 @@ _refresh = 0.1;
 
 sleep 0.5;
 if (visibleMap) then {
-    {if ((side _x isEqualTo independent) && ("ItemGPS" in (assignedItems _x))) then {_ems pushBack _x;}} forEach playableUnits; // Replace "(units west)" with "playableUnits" for MP testing
+    {if ((side _x isEqualTo independent) && ("ItemRadio" in (assignedItems _x))) then {_ems pushBack _x;}} forEach playableUnits; // Replace "(units west)" with "playableUnits" for MP testing
 
     //Create markers
     {

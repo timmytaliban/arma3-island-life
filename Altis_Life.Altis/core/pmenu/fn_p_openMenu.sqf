@@ -29,4 +29,8 @@ if (FETCH_CONST(life_adminlevel) < 1) then {
     ctrlShow[2021,false];
 };
 
+if (ITEM_VALUE("cellphone") < 1 && {FETCH_CONST(life_adminlevel) < 1}) then {
+    ctrlShow[2024,false];
+};
+
 [] call life_fnc_p_updateMenu;

@@ -6840,6 +6840,9 @@
         </Key>
     </Package>
     <Package name="Life_Items">
+        <Key ID="STR_Item_Cellphone">
+            <Original>Cellphone</Original>
+        </Key>
         <Key ID="STR_Item_Cannabis">
             <Original>Marijuana leaf</Original>
             <Czech>marihuana list</Czech>

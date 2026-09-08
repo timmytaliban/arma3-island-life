@@ -36,4 +36,9 @@ if (life_is_alive && !life_is_arrested) then {
         };
     };
 };
+
 life_is_alive = true;
+
+if (ITEM_VALUE("cellphone") < 1) then {
+    ["cellphone",1] call life_fnc_addVirtualItems;
+};

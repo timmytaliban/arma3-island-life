@@ -13,6 +13,9 @@ if (FETCH_CONST(life_adminlevel) < 1) then {
     ctrlShow[2021,false];
 };
 
+//Only show the cellphone button if the player owns a cellphone (or is an admin)
+ctrlShow[2024,(ITEM_VALUE("cellphone") > 0 || {FETCH_CONST(life_adminlevel) > 0})];
+
 _side = switch (playerSide) do {case west:{"cop"}; case civilian:{"civ"}; case independent:{"med"};};
 
 _inv = CONTROL(2001,2005);

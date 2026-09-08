@@ -246,7 +246,7 @@ class playerSettings {
         };
 
         class ButtonCell: Life_RscButtonMenu {
-            idc = 2014;
+            idc = 2024;
             text = "$STR_PM_CellPhone";
             onButtonClick = "createDialog ""Life_cell_phone"";";
             x = 0.42 + (6.25 / 19.8) + (1 / 250 / (safezoneW / safezoneH));
