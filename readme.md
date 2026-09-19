@@ -27,7 +27,7 @@ This is an Arma 3 Life mod inspired by Arma 2 Island Life. This framework is a f
 
 ### New Life Rule (NLR)
 
-The New Life Rule is the concept where if you die because of a roleplay situation, then you begin a new life once you respawn.
+**The New Life Rule is the concept where if you die because of a roleplay situation, then you begin a new life once you respawn.**
 
 - NLR applies only to cases where you die as the result of a relevant roleplay scenario. Accidental or unrealted deaths do not nullify all roleplay scenarios, however incidental deaths do apply.
 
@@ -104,7 +104,7 @@ The Continental Hotel is our equivalent to "Rebel HQ" or "IRA Base" from other L
 
 ### Roleplay Job Rules
 
-The Good Faith Rule: any players offering services, whether legal or illegal, are required to perform their duties in good faith. This also applies to buyers seeking out these services. The buyer may not fake interest for the intent of stealing, robbing, scamming the seller, or deliberately not paying for services rendered. Likewise, the seller may not exploit the buyer in a similar manner.
+**The Good Faith Rule: any players offering services, whether legal or illegal, are required to perform their duties in good faith. This also applies to buyers seeking out these services. The buyer may not fake interest for the intent of stealing, robbing, scamming the seller, or deliberately not paying for services rendered. Likewise, the seller may not exploit the buyer in a similar manner.**
 
 - The Good Faith rule explicitly applies to players offering illegal or "barely legal" services. These includes services such as being getaway driver, illegal delivery driver, being a Hitman/Assassin, or being a paid Thug/Mercenary. All parties must act in good faith.
 
@@ -116,5 +116,4 @@ The Good Faith Rule: any players offering services, whether legal or illegal, ar
 
 - If illegal services are not rendered due to gross neglience or unsatisfactory on either parties behalf, then that gives sufficient violent roleplay reason to seek a refund.
 
-
-
+**There is no legal or rule carveouts for roleplay jobs. If you are roleplaying a job, you must follow all applicable rules and laws**

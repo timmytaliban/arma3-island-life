@@ -7,27 +7,11 @@
 *        side = side indicator
 */
 class Licenses {
-    //Civilian Licenses
+//Civilian Licenses
     class driver {
         variable = "driver";
         displayName = "STR_License_Driver";
         price = 500;
-        illegal = false;
-        side = "civ";
-    };
-
-    class boat {
-        variable = "boat";
-        displayName = "STR_License_Boat";
-        price = 1000;
-        illegal = false;
-        side = "civ";
-    };
-
-    class pilot {
-        variable = "pilot";
-        displayName = "STR_License_Pilot";
-        price = 25000;
         illegal = false;
         side = "civ";
     };
@@ -40,9 +24,41 @@ class Licenses {
         side = "civ";
     };
 
+    class pilot {
+        variable = "pilot";
+        displayName = "STR_License_Pilot";
+        price = 25000;
+        illegal = false;
+        side = "civ";
+    };
+
+    class boat {
+        variable = "boat";
+        displayName = "STR_License_Boat";
+        price = 1000;
+        illegal = false;
+        side = "civ";
+    };
+
     class gun {
         variable = "gun";
         displayName = "STR_License_Firearm";
+        price = 10000;
+        illegal = false;
+        side = "civ";
+    };
+
+    class gun1 {
+        variable = "gun1";
+        displayName = "STR_License_Firearm_gun1";
+        price = 10000;
+        illegal = false;
+        side = "civ";
+    };
+
+    class gun2 {
+        variable = "gun2";
+        displayName = "STR_License_Firearm_gun2";
         price = 10000;
         illegal = false;
         side = "civ";
@@ -129,7 +145,7 @@ class Licenses {
         side = "civ";
     };
 
-    //Illegal Licenses
+//Illegal Licenses
     class cocaine {
         variable = "cocaine";
         displayName = "STR_License_Cocaine";
@@ -162,7 +178,79 @@ class Licenses {
         side = "civ";
     };
 
-    //Cop Licenses
+    class hotel {
+        variable = "hotel";
+        displayName = "STR_License_Continental";
+        price = 250000;
+        illegal = true;
+        side = "civ";
+    };
+
+//Cop Licenses
+    class rookie {
+        variable = "rookie";
+        displayName = "STR_License_Police_Rookie";
+        price = 5000;
+        illegal = false;
+        side = "cop";
+    };
+
+    class patrol {
+        variable = "patrol";
+        displayName = "STR_License_Police_Patrol";
+        price = 15000;
+        illegal = false;
+        side = "cop";
+    };
+
+    class tacpatrol {
+        variable = "tacpatrol";
+        displayName = "STR_License_Police_Tactical";
+        price = 50000;
+        illegal = false;
+        side = "cop";
+    };
+
+    class swat {
+        variable = "swat";
+        displayName = "STR_License_Police_SWAT";
+        price = 150000;
+        illegal = false;
+        side = "cop";
+    };
+
+    class vice {
+        variable = "vice";
+        displayName = "STR_License_Police_VICE";
+        price = 150000;
+        illegal = false;
+        side = "cop";
+    };
+
+    class hwp {
+        variable = "hwp";
+        displayName = "STR_License_Police_HWP";
+        price = 150000;
+        illegal = false;
+        side = "cop";
+    };
+
+    class hwp {
+        variable = "hwp";
+        displayName = "STR_License_Police_HWP";
+        price = 150000;
+        illegal = false;
+        side = "cop";
+    };
+
+    class agency {
+        variable = "agency";
+        displayName = "STR_License_Police_Special";
+        price = 150000;
+        illegal = false;
+        side = "cop";
+    };
+
     class cAir {
         variable = "cAir";
         displayName = "STR_License_Pilot";
@@ -179,11 +267,51 @@ class Licenses {
         side = "cop";
     };
 
-    //Medic Licenses
+//Medic Licenses
+    class mBase {
+        variable = "mBase";
+        displayName = "STR_License_Med_Basic";
+        price = 5000;
+        illegal = false;
+        side = "med";
+    };
+
+    class fBase {
+        variable = "fBase";
+        displayName = "Basic Fire Dept Training";
+        price = 5000;
+        illegal = false;
+        side = "med";
+    };
+
+    class mAdv {
+        variable = "mAdv";
+        displayName = "STR_License_Med_Adv";
+        price = 100000;
+        illegal = false;
+        side = "med";
+    };
+
+    class fAdv {
+        variable = "fAdv";
+        displayName = "STR_License_FD_Adv";
+        price = 100000;
+        illegal = false;
+        side = "med";
+    };
+
+    class mDoc {
+        variable = "mDoc";
+        displayName = "STR_License_Med_Doc";
+        price = 250000;
+        illegal = false;
+        side = "med";
+    };
+
     class mAir {
         variable = "mAir";
-        displayName = "STR_License_Pilot";
-        price = 15000;
+        displayName = "STR_License_Emergency_Pilot";
+        price = 125000;
         illegal = false;
         side = "med";
     };

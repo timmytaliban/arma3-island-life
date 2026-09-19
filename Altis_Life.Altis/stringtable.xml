@@ -7769,6 +7769,27 @@
             <Polish>Trening straż przybrzeżna</Polish>
 			<Chinesesimp>海岸警卫队证</Chinesesimp>
         </Key>
+        <Key ID="STR_License_Police_Rookie">
+            <Original>Rookie Officer Training</Original>
+        </Key>
+        <Key ID="STR_License_Police_Patrol">
+            <Original>Patrol Officer Training</Original>
+        </Key>
+        <Key ID="STR_License_Police_Tactical">
+            <Original>Tactical Weapons Training</Original>
+        </Key>
+        <Key ID="STR_License_Police_SWAT">
+            <Original>SWAT Training</Original>
+        </Key>
+        <Key ID="STR_License_Police_VICE">
+            <Original>VICE/UC Training</Original>
+        </Key>
+        <Key ID="STR_License_Police_HWP">
+            <Original>Highway Patrol Training</Original>
+        </Key>
+        <Key ID="STR_License_Police_Special">
+            <Original>Other Agency Training</Original>
+        </Key>
         <Key ID="STR_License_Rebel">
             <Original>Rebel Training</Original>
             <Czech>Rebel Training</Czech>
