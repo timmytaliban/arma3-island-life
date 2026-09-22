@@ -7790,6 +7790,33 @@
         <Key ID="STR_License_Police_Special">
             <Original>Other Agency Training</Original>
         </Key>
+        <Key ID="STR_License_Med_Basic">
+            <Original>Basic Paramedic Training</Original>
+        </Key>
+        <Key ID="STR_License_FD_Basic">
+            <Original>Basic Fire Dept Training</Original>
+        </Key>
+        <Key ID="STR_License_Med_Adv">
+            <Original>Advanced Paramedic Training</Original>
+        </Key>
+        <Key ID="STR_License_FD_Adv">
+            <Original>Advanced Fire Dept Training</Original>
+        </Key>
+        <Key ID="STR_License_Med_Doc">
+            <Original>Emergency Doctor</Original>
+        </Key>
+        <Key ID="STR_License_Emergency_Pilot">
+            <Original>PD/EMS Pilot Training</Original>
+        </Key>
+        <Key ID="STR_License_Firearm_gun1">
+            <Original>Rifle/Shotgun License</Original>
+        </Key>
+        <Key ID="STR_License_Firearm_gun2">
+            <Original>Assault Weapons Permit</Original>
+        </Key>
+        <Key ID="STR_License_Continental">
+            <Original>The Continental Membership</Original>
+        </Key>
         <Key ID="STR_License_Rebel">
             <Original>Rebel Training</Original>
             <Czech>Rebel Training</Czech>
